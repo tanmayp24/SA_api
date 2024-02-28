@@ -11,5 +11,8 @@
     "ds"
   ],
   "author": "Tanmay P",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
